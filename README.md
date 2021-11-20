@@ -4,7 +4,7 @@
 
 Business logic of transactions between users. Added the ability to delete transactions and search for transactions without a pair.
 
-## Using
+## Usage
 
 ``javac *.java`` and ``java Program <profile>``.
 
