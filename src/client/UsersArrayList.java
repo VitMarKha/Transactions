@@ -1,3 +1,5 @@
+package client;
+
 public class UsersArrayList implements UsersList {
 
     private int size = 10;

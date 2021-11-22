@@ -1,3 +1,5 @@
+package management;
+
 import java.util.UUID;
 
 public interface TransactionsList {

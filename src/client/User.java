@@ -1,3 +1,8 @@
+package client;
+
+import management.Transaction;
+import management.TransactionsLinkedList;
+
 import java.util.UUID;
 
 public class User {

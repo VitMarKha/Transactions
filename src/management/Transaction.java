@@ -1,9 +1,8 @@
-import java.util.UUID;
+package management;
 
-enum TransferCategory {
-    DEBITS,
-    CREDITS
-}
+import client.User;
+
+import java.util.UUID;
 
 public class Transaction {
     private final UUID identifier;

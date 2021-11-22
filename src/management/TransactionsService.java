@@ -1,3 +1,9 @@
+package management;
+
+import client.User;
+import client.UsersArrayList;
+import client.UsersList;
+
 import java.util.UUID;
 
 public class TransactionsService {

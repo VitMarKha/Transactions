@@ -1,3 +1,8 @@
+import client.User;
+import client.UserIdsGenerator;
+import management.Transaction;
+import management.TransactionsService;
+
 import java.util.Scanner;
 import java.util.UUID;
 

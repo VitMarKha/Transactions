@@ -1,3 +1,5 @@
+package client;
+
 public class UserIdsGenerator {
 
     private Integer instance = 0;

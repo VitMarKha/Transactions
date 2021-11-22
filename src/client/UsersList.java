@@ -1,3 +1,5 @@
+package client;
+
 public interface UsersList {
 
     public void addUser(User user);
